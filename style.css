@@ -1,0 +1,10 @@
+body {
+    background-color: lime;
+    text-align: center;
+}
+p {
+    height: 100px;
+    
+    color: blue;
+    background-color: aqua;
+}
